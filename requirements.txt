@@ -1,0 +1,6 @@
+kafka-python
+pandas
+scikit-learn
+openai
+streamlit
+streamlit-autorefresh

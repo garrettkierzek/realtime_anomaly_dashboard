@@ -1,0 +1,29 @@
+# Ignore environment config
+.env
+*.env
+__pycache__/
+*.pyc
+*.pyo
+
+# API keys
+api_key.txt
+
+# Data outputs and logs
+*.db
+*.csv
+stream_data/
+dashboard_data.csv
+
+# Notebooks checkpoint files
+.ipynb_checkpoints/
+
+# VSCode metadata
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# datafiles
+dashboard_data.csv
+synthetic_manufacturing_datasetV2.csv
